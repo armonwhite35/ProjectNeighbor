@@ -1,0 +1,8 @@
+bobby	35	(763)258-196	23000	26ElmStreet 	100
+tommy	45	(681)325-787	12000	95MapleLane 	325
+annie	55	(981)458-314	65000	102MapleLane 	0
+donny	65	(238)987-655	83000	105MapleLane 	425
+becky	53	(412)366-889	15000	25ElmsStreet 	1
+jodie	58	(724)412-389	17500	27ElmsStreet 	899
+nancy	55	(918)458-567	71000	103MapleLane 	30
+billy	24	(910)491-989	21500	104MapleLane 	24
